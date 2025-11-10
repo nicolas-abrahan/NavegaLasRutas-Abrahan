@@ -6,9 +6,9 @@ import Products from "./pages/Products";
 import Contact from "./pages/Contact";
 import Cart from "./pages/Cart";
 import NotFound from "./pages/NotFound";
-import ProductDetail from "./pages/HombreDetail";
-import ProductDetail from "./pages/MujerDetail";
-import ProductDetail from "./pages/NiñosDetailDetail";
+import HombreDetail from "./pages/HombreDetail";
+import MujerDetail from "./pages/MujerDetail";
+import NiñosDetail from "./pages/NiñosDetail";
 
 function App() {
   return (
