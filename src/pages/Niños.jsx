@@ -1,4 +1,4 @@
-import ItemListContainer from "../components/ItemListContainerNiños"
+import ItemListContainerNiños from "../components/ItemListContainerNiños"
 
 function Niños() {
   return (

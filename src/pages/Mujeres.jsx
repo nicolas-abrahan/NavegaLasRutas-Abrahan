@@ -1,4 +1,4 @@
-import ItemListContainer from "../components/ItemListContainerMujer"
+import ItemListContainerMujer from "../components/ItemListContainerMujer"
 
 function Mujeres() {
   return (
