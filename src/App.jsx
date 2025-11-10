@@ -1,5 +1,7 @@
 import NavBar from "./components/NavBar";
-import ItemListContainer from "./components/ItemListContainer";
+import ItemListContainerHombre from "./components/ItemListContainerHombre";
+import ItemListContainerMujer from "./components/ItemListContainerMujer";
+import ItemListContainerNiños from "./components/ItemListContainerNiños";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import Home from "./pages/Home";
 import Products from "./pages/Products";
